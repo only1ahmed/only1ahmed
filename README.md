@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am Ahmed Wesam, a Sophomore at Faculty Computer Science and Artificial Intelligence, Cairo University.
+## I am Ahmed Wesam, a junior at Faculty Computer Science and Artificial Intelligence, Cairo University.
 ## - 🌱 I’m currently learning:
 - More advanced Data structres and Algorithms, Graph theory, linear algebra, Principals of databases, Web development and Agile development cycle.
 
