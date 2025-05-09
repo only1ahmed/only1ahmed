@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 ## I am Ahmed Wesam, a senior at Faculty Computer Science and Artificial Intelligence, Cairo University.
-## - 🌱 I’m currently learning:
-- More advanced Data structres and Algorithms, Graph theory, linear algebra, Principals of databases, Web development and Agile development cycle.
+
 
 <!-- - Programming consepts such as Structural Programming and OOP using C++ and How the memory works behind the scene. 
 The different between Compiled Language like CPlusPlus (C++) and Interpreted Language like Python.
