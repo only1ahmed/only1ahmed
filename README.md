@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 <p align="inline"><img align="inline" height="231" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only1ahmed&theme=vue-dark&layout=compact"/>
 
-<p align="inline"><img align="inline" src="https://github-readme-stats.vercel.app/api?username=only1ahmed&theme=vue-dark&show_icons=true&locale=en"/>
+<!-- <p align="inline"><img align="inline" src="https://github-readme-stats.vercel.app/api?username=only1ahmed&theme=vue-dark&show_icons=true&locale=en"/> -->
 
 <p align="inline"><img align="inline" src="http://github-readme-streak-stats.herokuapp.com?user=only1ahmed&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
 
