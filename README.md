@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## I am Ahmed Wesam, a senior at Faculty Computer Science and Artificial Intelligence, Cairo University.
+## I am Ahmed Wesam, a fresh grad from Faculty of Computer Science and Artificial Intelligence, Cairo University.
 
 
 <!-- - Programming consepts such as Structural Programming and OOP using C++ and How the memory works behind the scene. 
