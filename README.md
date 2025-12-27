@@ -57,23 +57,11 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="https://leetcode.com/only1ahmed/">
-<img height="60" src="https://www.bing.com/th?id=AMMS_ce7ad2c1dbb8cf8ac6bf1f78f35afa8f&w=148&h=148&c=7&o=6&dpr=1.3&pid=SANGAM">
+<img height="60" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png">
 </a> 
 
 </br>
 
-## <p align="inline">My GitHub States</p>
-
-<p align="inline">
-
-<p align="inline"><img align="inline" height="231" src="https://github-readme-stats.vercel.app/api/top-langs/?username=only1ahmed&theme=vue-dark&layout=compact"/>
-
-<!-- <p align="inline"><img align="inline" src="https://github-readme-stats.vercel.app/api?username=only1ahmed&theme=vue-dark&show_icons=true&locale=en"/> -->
-
-<p align="inline"><img align="inline" src="http://github-readme-streak-stats.herokuapp.com?user=only1ahmed&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
-
-</p>
-</br> </br>
 
 <!-- ## <p align="inline">Solutions of Codeforces' Problems using C++</p>
 
