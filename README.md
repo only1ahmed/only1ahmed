@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   
 </p>
 
-## - ⌨️ Websites that I practise on for problem solving:
+## - ⌨️ Websites that I practice on for problem solving:
 
 <a href="https://codeforces.com/profile/Only1ahmed">
 <img height="60" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png">
