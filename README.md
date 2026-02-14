@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179001975-07bf6017-536a-4ed6-8094-ebfcb3de5df7.png">
 </a> 
 
-<a href="https://www.facebook.com/ahmed.wessam.7165">
-<img height="50" src="https://user-images.githubusercontent.com/101745968/179002044-763b6a85-1a13-4b63-9e29-247c8d94d02c.png">
-</a> 
-
 
 <a href="mailto:awessam127@gmail.com">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179003389-f90c49c2-c9b5-4ae4-b3a2-3edfe1ad7dd2.png">
