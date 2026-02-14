@@ -1,8 +1,4 @@
-## Hi there 👋
-
-## I am Ahmed Wesam, a fresh grad from Faculty of Computer Science and Artificial Intelligence, Cairo University.
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=1500&pause=500&multiline=true&width=900&height=110&lines=Hi+there+%F0%9F%91%8B;I+am+Ahmed+Wesam;+A+fresh+grad+from+;Faculty+of+Computer+Science+and+Artificial+Intelligence%2C+Cairo+University.)](https://git.io/typing-svg)
 <!-- - Programming consepts such as Structural Programming and OOP using C++ and How the memory works behind the scene. 
 The different between Compiled Language like CPlusPlus (C++) and Interpreted Language like Python.
 
